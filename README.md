@@ -3,7 +3,7 @@
 <ul>
   <li>🎓 I studied International Fashion Business in Paris.</li>
 <li>👩🏻‍💻 I am currently attending the Wild Code School Full-Time Web Development Bootcamp. </li>
-  <li>🔭 I’m working on different projects that I will publish later—stay tuned! 🚀/li>
+  <li>🔭 I’m working on different projects that I will publish later—stay tuned! 🚀</li>
 </ul>
 
 <img src="https://i.giphy.com/heIX5HfWgEYlW.webp" width="300"/>
