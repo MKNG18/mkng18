@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Maëva
+## Hi 👋 I'm Maëva
 
 <ul>
   <li>🎓 I studied International Fashion Business in Paris.</li>
